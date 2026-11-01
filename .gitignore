@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+.env
+.env.*
+!.env.example
+.npmrc.local
+credentials/
+*.pem
+
+*.log
+.DS_Store
